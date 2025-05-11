@@ -1,6 +1,6 @@
 <!-- Static Hero Banner -->
 <p align="center">
-  <span align="center" style="font-size:30px; font-weight:700; color:white;">
+  <span align="center" style="font-size:10px; font-weight:700; color:white;">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!" alt="header" />
   </span>
 </p>
