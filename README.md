@@ -1,6 +1,6 @@
 <!-- Static Hero Banner -->
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!&fontSize=10px" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!&fontSize=5px" alt="header" />
 </p>
 
 <p align="left">
