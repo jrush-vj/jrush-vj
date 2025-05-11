@@ -1,32 +1,29 @@
-<div align="center">  
+<div align="center">
   <h1>👨‍💻 Jerush Vijay</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,FF00FF&height=120&section=header&fontSize=90" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,FF00FF&height=120&section=header&text=&fontSize=90&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=3000&color=00FFFF&center=true&vCenter=true&random=false&width=800&lines=AI%2FML+Student+%7C+Frontend+Developer+%7C+UI%2FUX+Enthusiast+%7C+Game+Dev+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=800&lines=AI%2FML+Student+%7C+Frontend+Developer+%7C+UI%2FUX+Enthusiast+%7C+Game+Dev+Explorer" alt="Typing SVG" />
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> About Me
-- 🎓 B.Tech in CSE (AIML) @ REVA University  
-- 🧠 Fascinated by Generative AI & LLMs  
-- 🎨 Passionate about crafting user-centric interfaces  
-- 🌍 Love bringing ideas to life through code  
-- 🏆 Hackathon enthusiast who thrives under pressure  
+## 🚀 About Me
+- 🎓 B.Tech in CSE (AIML) @ **REVA University**
+- 🧠 Fascinated by **Generative AI** & **LLMs**
+- 🎨 UI/UX enthusiast with an eye for detail
+- 🌍 Passionate about building creative tech solutions
+- 🏆 Hackathon warrior who thrives under pressure
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="25" /> Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,20 +36,40 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkle.png" width="25" /> Current Focus
+## 🎯 Current Focus
 
-- 🎯 Building AI-powered web applications  
-- 🖌️ Improving UI/UX design skills  
-- 🤖 Running local LLMs & prompt engineering  
-- 🎮 Game development side projects  
+- 🚧 Building **AI-powered web apps**
+- 🖌️ Sharpening **UI/UX design** skills
+- 🤖 Running local **LLMs & prompt engineering**
+- 🎮 Exploring **Game Dev** side projects
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="25" /> Connect With Me
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jrush-vj&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrush-vj&show_icons=true&theme=radical&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrush-vj&layout=compact&theme=radical&border_radius=15" />
+</div>
+
+---
+
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/jerush-vijay-8222a5317/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -63,5 +80,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jrush-vj&style=for-the-badge&color=00FFFF&labelColor=000000" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jrush-vj&style=for-the-badge&color=FF00FF&labelColor=000000" alt="Profile Views"/>
 </div>
