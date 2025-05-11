@@ -7,11 +7,13 @@
 
 <!-- About Me Section -->
 ## ✨ About Me
-I'm a <b>student developer</b> from <b>REVA University</b> with a strong passion for <b>AI</b>, <b>UI/UX design</b>, <b>IoT</b>, and creating <b>immersive web and game experiences</b> that have real-world impact.
 <p align="left">
-  <b>REVA'28 🔶 | UI/UX 🧑‍\U0001F4BB | Game Dev 🎮 | ML Enthusiast 🤖 | LLMs Explorer 👾 | B.Tech CSE (AIML) 🎓</b>
+  
+  <b>**REVA'28 🔶 | UI/UX Dev🎨 | Game Dev 🎮 | IoT Enthusiast 🤖 | LLMs Explorer 👾 | B.Tech CSE (AIML)🎓**</b>
 </p>
-<!-- Tech Stack -->
+I'm a <b>student developer</b> from <b>REVA University</b> with a strong passion for <b>AI</b>, <b>UI/UX design</b>, <b>IoT</b>, and creating <b>immersive web and game experiences</b> that have real-world impact.
+
+
 ## 🧰 Tech Stack & Tools
 
 ### Programming Languages  
