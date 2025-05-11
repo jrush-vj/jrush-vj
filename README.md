@@ -9,9 +9,6 @@
   <i><font color="white">Student developer passionate about AI, UI/UX, and building immersive experiences through code and design.</font></i>
 </p>
 
-<!-- Wave Animation - Minimal height -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,11,20&height=70&section=header&text=&fontSize=12" width="100%">
-
 <!-- About Me Section - Clean, no tables -->
 <h2 align="center">✨ About Me</h2>
 
@@ -19,11 +16,10 @@
   <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-- 🎓 B.Tech in CSE (AIML) @ REVA University
-- 🧠 Exploring Generative AI & LLMs
+*🎓 B.Tech in CSE (AIML) @ REVA University*
+- 🧠 Exploring Generative AI & Local LLMs
 - 🎨 Passionate UI/UX designer
 - 🌐 Building interactive web experiences
-- 🏆 Hackathon champion-in-progress
 - 🚀 Creating projects with practical impact
 
 
@@ -81,11 +77,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=jrush-vj&show_icons=true&bg_color=1a1b27&text_color=ffffff&title_color=70a5fd&icon_color=bf91f3&hide_border=true" width="420"/>
 </div>
-
-<!-- Animated Skill Icons - One row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,c,figma,git,docker,mysql,github&theme=dark" />
-</p>
 
 <!-- Activity Graph -->
 <p align="center">
