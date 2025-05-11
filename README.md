@@ -1,64 +1,63 @@
-<!-- Hero Banner -->
+<!-- Hero Banner with Dynamic Typing -->
 <p align="center">
-  <img src="https://your-image-url.png" alt="Hero Banner" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Jerush+Vijay!;AI%2FML+Student+%7C+Frontend+Dev;UI%2FUX+Designer+%7C+Game+Dev" alt="Typing SVG" /></a>
 </p>
 
-<p align="center"><i>Student developer passionate about AI, UI/UX, and building immersive experiences through code and design.</i></p>
+<p align="center">
+  <i><font color="white">Student developer passionate about AI, UI/UX, and building immersive experiences through code and design.</font></i>
+</p>
 
----
+<!-- Wave Animation - Minimal height -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,11,20&height=70&section=header&text=&fontSize=12" width="100%">
 
-<table>
-<tr>
-<td width="50%">
+<!-- About Me Section - Clean, no tables -->
+<h2 align="center">✨ About Me</h2>
 
-## ✨ About Me
+<p align="center">
+  <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
-- 🎓 B.Tech in CSE (AIML) @ REVA University  
-- 🧠 Exploring Generative AI & LLMs  
-- 🎨 Passionate UI/UX designer  
-- 🌐 Building interactive web experiences  
-- 🏆 Hackathon champion-in-progress  
+- 🎓 B.Tech in CSE (AIML) @ REVA University
+- 🧠 Exploring Generative AI & LLMs
+- 🎨 Passionate UI/UX designer
+- 🌐 Building interactive web experiences
+- 🏆 Hackathon champion-in-progress
+- 🚀 Creating projects with practical impact
 
-</td>
-<td width="50%">
+<!-- Skills Section - Well organized -->
+<h2 align="center">🛠️ Skills</h2>
 
-## 🔭 Current Focus
+<p align="center">
+  <img align="left" height="150" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
+</p>
 
-- 🎮 Game controller & emulator projects  
-- 🛠️ Open-source AI toolkits  
-- 🎭 Local LLMs & embedded ML  
-- 🎨 Building cool UIs with code + design  
+- 🎮 Game controller & emulator development
+- 🤖 LLM fine-tuning & prompt engineering 
+- 💻 Full-stack web application development
+- 🎭 Embedded ML & edge computing
+- 🧩 Problem solving & algorithmic thinking
+- 🎨 UI/UX design systems & prototyping
 
-</td>
-</tr>
-</table>
+<br clear="both">
 
----
+<!-- Tech Stack - Better Organized -->
+<h2 align="center">🧰 Tech Stack & Tools</h2>
 
-## 🧰 Tech Stack
-
+<!-- Programming Languages -->
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
+<!-- AI/ML Tools -->
+<h3 align="center">AI & ML Tools</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/jerush-vijay-8222a5317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/jrush-vj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=000000&animation=fadeIn" width="100%" />
-</p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-6366F1?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge
