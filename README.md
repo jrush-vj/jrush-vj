@@ -1,20 +1,16 @@
-<!-- Static Hero Banner -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!&fontSize=5px" alt="header" />
-</p>
 
 <p align="left">
   <i><font color="white">Student at REVA University</font></i>
 </p>
 
-<p align="left">
-  <b>REVA'28 🔶 | UI/UX 🧑‍\U0001F4BB | Game Dev 🎮 | ML Enthusiast 🤖 | LLMs Explorer 👾 | B.Tech CSE (AIML) 🎓</b>
-</p>
+
 
 <!-- About Me Section -->
 ## ✨ About Me
 I'm a <b>student developer</b> from <b>REVA University</b> with a strong passion for <b>AI</b>, <b>UI/UX design</b>, <b>IoT</b>, and creating <b>immersive web and game experiences</b> that have real-world impact.
-
+<p align="left">
+  <b>REVA'28 🔶 | UI/UX 🧑‍\U0001F4BB | Game Dev 🎮 | ML Enthusiast 🤖 | LLMs Explorer 👾 | B.Tech CSE (AIML) 🎓</b>
+</p>
 <!-- Tech Stack -->
 ## 🧰 Tech Stack & Tools
 
