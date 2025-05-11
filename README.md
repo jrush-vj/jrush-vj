@@ -1,7 +1,7 @@
 <!-- Static Hero Banner -->
 <p align="center">
   <span align="center" style="font-size:30px; font-weight:700; color:white;">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!&fontSize=40&height=100&desc=AI/ML%20Student%20|%20Frontend%20Dev%20|%20UI/UX%20Designer%20|%20Game%20Dev&descAlignY=75&descSize=18&animation=fadeIn" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!" alt="header" />
   </span>
 </p>
 
