@@ -1,6 +1,8 @@
-<!-- Hero Banner with Dynamic Typing -->
+<!-- Static Hero Banner -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Jerush+Vijay!;AI%2FML+Student+%7C+Frontend+Dev;UI%2FUX+Designer+%7C+Game+Dev" alt="Typing SVG" /></a>
+  <span align="center" style="font-size:30px; font-weight:700; color:white;">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Hi,%20I'm%20Jerush%20Vijay!&fontSize=40&height=100&desc=AI/ML%20Student%20|%20Frontend%20Dev%20|%20UI/UX%20Designer%20|%20Game%20Dev&descAlignY=75&descSize=18&animation=fadeIn" alt="header" />
+  </span>
 </p>
 
 <p align="center">
@@ -24,21 +26,7 @@
 - 🏆 Hackathon champion-in-progress
 - 🚀 Creating projects with practical impact
 
-<!-- Skills Section - Well organized -->
-<h2 align="center">🛠️ Skills</h2>
 
-<p align="center">
-  <img align="left" height="150" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
-</p>
-
-- 🎮 Game controller & emulator development
-- 🤖 LLM fine-tuning & prompt engineering 
-- 💻 Full-stack web application development
-- 🎭 Embedded ML & edge computing
-- 🧩 Problem solving & algorithmic thinking
-- 🎨 UI/UX design systems & prototyping
-
-<br clear="both">
 
 <!-- Tech Stack - Better Organized -->
 <h2 align="center">🧰 Tech Stack & Tools</h2>
@@ -60,4 +48,62 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-6366F1?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge&logo=bolt&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/LLMs-5A67D8?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<!-- Design & Productivity -->
+<h3 align="center">Design & Productivity</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+<!-- Development Tools -->
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jrush-vj&theme=tokyonight&hide_border=true&border_radius=10&date_format=%5BY.%5Dn.j&mode=weekly&background=1A1B27&ring=70A5FD&fire=70A5FD&currStreakLabel=FFFFFF" width="420"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jrush-vj&show_icons=true&bg_color=1a1b27&text_color=ffffff&title_color=70a5fd&icon_color=bf91f3&hide_border=true" width="420"/>
+</div>
+
+<!-- Animated Skill Icons - One row -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,c,figma,git,docker,mysql,github&theme=dark" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrush-vj&theme=react-dark&hide_border=true&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=FFFFFF" width="95%">
+</p>
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jerush-vijay-8222a5317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jrush-vj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60" width="100%" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jrush-vj&style=for-the-badge&color=70A5FD&labelColor=1A1B27" alt="Profile Views"/>
+</p>
