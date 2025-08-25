@@ -4,12 +4,6 @@
 
 I'm an **independent developer and engineering student** passionate about **Artificial Intelligence, Machine Learning, IoT, Systems Programming, and Linux**. I specialize in building solutions that merge **software and hardware**, with a focus on creating practical, real-world applications.  
 I approach every project from the ground up—**analyzing problems, designing systems, and implementing optimized solutions**. This allows me to go beyond coding and engineer complete systems for automation, efficiency, and human–computer interaction.  
-
-Currently pursuing a **B.Tech in Computer Science (AIML) @ REVA University**, I actively explore:  
-- **AI/ML frameworks & model optimization** (ONNX, TensorRT, PyTorch)  
-- **Embedded systems & IoT** (Arduino, sensor integration, edge AI)  
-- **Linux customization & systems programming** (automation, performance tuning)  
-
 At my core, I’m driven by curiosity and the idea of **crafting technology that is both efficient and meaningful**—from optimizing neural networks to building IoT prototypes and automating Linux workflows.  
 
 ---
