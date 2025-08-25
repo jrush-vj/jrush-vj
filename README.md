@@ -25,15 +25,6 @@ Currently pursuing **B.Tech in CSE (AIML) @ REVA University**, while experimenti
 
 ---
 
-### 🚀 Featured Projects  
-
-- 🎮 **Custom Arduino Game Controller** → Built with **Arduino Uno, Python, and vgamepad**, mapping analog sticks, triggers, and buttons into a fully functional **Xbox emulator**.  
-- 🧑‍🎓 **Attendance Using Facial Recognition** → AI-powered attendance system using **OpenCV, ONNX, TensorRT, and Supabase**, integrated with **QR code & GUI**.  
-- 🤖 **Local AI Assistant** → Experimenting with **Ollama, RAG, and TensorRT** to run lightweight LLMs locally with custom GUIs.  
-- 🐧 **Linux Tinkering** → Daily driving **Arch/EndeavourOS with Hyprland**, optimizing for performance, battery life, and aesthetics.  
-
----
-
 ### 📊 GitHub Stats  
 
 ![Jerush's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerushvj&show_icons=true&theme=gruvbox)  
@@ -42,14 +33,3 @@ Currently pursuing **B.Tech in CSE (AIML) @ REVA University**, while experimenti
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jerushvj&theme=gruvbox&border_radius=4.5) -->
 
 ---
-
-### 🌱 Current Focus  
-
-- Building **AI + IoT/Arduino integrations**  
-- Developing and documenting **open-source projects**  
-- Optimizing workflows with **Linux + Systems programming**  
-- Exploring **AI/ML frameworks and deployment**  
-
----
-
-⚡ _“Code is the bridge between ideas and reality. My goal is to keep building that bridge, one project at a time.”_  
