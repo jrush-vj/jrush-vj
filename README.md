@@ -2,9 +2,20 @@
 
 **`Digital Craftsman (Developer/Maker)`**
 
-I'm an indie developer and engineering student passionate about **AI/ML, systems programming, IoT, and Linux**. I focus on building projects from the ground up—planning, designing, and implementing solutions to real-world problems through code and hardware.  
+I'm an **independent developer and engineering student** with a strong passion for **Artificial Intelligence, Machine Learning, IoT, Systems Programming, and Linux**. My work revolves around building solutions that merge **software and hardware**, with a focus on creating practical, real-world applications.  
 
-Currently pursuing **B.Tech in CSE (AIML) @ REVA University**, while experimenting with **Linux customization, Arduino IoT systems, AI research, and open-source tools**.  
+I believe in approaching every project from the ground up—starting with **problem analysis and design**, then moving into **implementation, optimization, and deployment**. This mindset has allowed me to not just write code, but to **engineer complete systems** that solve challenges in automation, efficiency, and human–computer interaction.  
+
+Currently, I am pursuing a **B.Tech in Computer Science (AIML) @ REVA University**, where I actively explore:  
+- **AI/ML frameworks & model optimization** (ONNX, TensorRT, PyTorch)  
+- **Embedded systems and IoT development** (Arduino, hardware integration, sensor-driven systems)  
+- **Systems programming and Linux environments** (customization, automation, performance optimization)  
+- **Open-source contributions and tools** that push my boundaries and help the developer community  
+
+Beyond academics, I continuously experiment with **Linux distributions, tiling window managers, and performance tuning** to understand how systems behave at a deeper level. On the hardware side, I integrate **Arduino-based controllers, IoT devices, and edge AI** to design low-latency, reliable solutions.  
+
+At my core, I’m driven by curiosity and the idea of **crafting technology that is both efficient and meaningful**. Whether it’s optimizing a neural network for real-time use, automating workflows in Linux, or designing an IoT prototype, I aim to blend **engineering discipline with innovation**.
+
 
 ---
 
