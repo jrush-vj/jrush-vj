@@ -27,7 +27,7 @@ Currently pursuing **B.Tech in CSE (AIML) @ REVA University**, while experimenti
 
 ### 📊 GitHub Stats  
 
-![Jerush's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrush-vj&show_icons=true&theme=gruvbox)  
+![Jerush's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrush-vj&show_icons=true&theme=midnight-purple)  
 
 <!-- Optional streak stats -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jerushvj&theme=gruvbox&border_radius=4.5) -->
